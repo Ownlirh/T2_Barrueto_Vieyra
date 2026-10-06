@@ -46,3 +46,13 @@ mvn clean package
 
 y despues se corre la clase PrincipalT2 desde eclipse con click derecho Run As
 Java Application.
+
+## Identificacion de la evaluacion
+
+Evaluacion: Trabajo 2 (T2) de la unidad 1 del curso Lenguaje de Programacion II.
+Alumno: Fernando Barrueto Vieyra
+Fecha: 06/10/2026
+
+En esta evaluacion se pide inicializar el repositorio configurar el usuario de
+git armar el gitignore con las exclusiones que genera eclipse y maven hacer el
+readme del proyecto y dejar registrados dos commits con mensajes distintos.
