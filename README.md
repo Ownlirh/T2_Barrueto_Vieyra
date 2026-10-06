@@ -56,3 +56,14 @@ Fecha: 06/10/2026
 En esta evaluacion se pide inicializar el repositorio configurar el usuario de
 git armar el gitignore con las exclusiones que genera eclipse y maven hacer el
 readme del proyecto y dejar registrados dos commits con mensajes distintos.
+
+## Control de cambios
+
+En esta parte del trabajo se practico el manejo de los cambios con git usando
+el working directory el staging area y el repositorio local. Se modifico el
+README para agregar esta seccion se le puso una descripcion al pom.xml y se
+creo un archivo de observaciones.
+
+Despues se paso al staging solo algunos archivos se saco el pom.xml del staging
+con reset y al final se descartaron los cambios del pom.xml para que vuelva a
+quedar como estaba en el ultimo commit.

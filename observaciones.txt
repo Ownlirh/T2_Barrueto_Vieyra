@@ -1,0 +1,14 @@
+OBSERVACIONES - T2_Barrueto_Vieyra
+Alumno: Fernando Barrueto Vieyra
+Curso: Lenguaje de Programacion II
+
+En esta evaluacion se trabajo el control de versiones con git sobre el proyecto
+de inventario. Se practico la diferencia entre el working directory el staging
+area y el repositorio local.
+
+Lo que mas me costo fue entender que sacar un archivo del staging con reset no
+borra los cambios del archivo solo lo saca de la lista de lo que se va a
+confirmar. Para borrar los cambios de verdad hay que usar checkout.
+
+Este archivo se deja a proposito fuera del staging en la primera parte del
+ejercicio.
