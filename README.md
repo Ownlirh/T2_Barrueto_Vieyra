@@ -67,3 +67,18 @@ creo un archivo de observaciones.
 Despues se paso al staging solo algunos archivos se saco el pom.xml del staging
 con reset y al final se descartaron los cambios del pom.xml para que vuelva a
 quedar como estaba en el ultimo commit.
+
+## Gestion de ramas
+
+Para esta parte se trabajo con ramas en git. Se creo una rama aparte llamada
+feature-barrueto para no tocar directamente la rama principal mientras se
+desarrollaba la nueva funcionalidad.
+
+Dentro de esa rama se agrego la clase ControlVersion_Barrueto.java que lo que
+hace es mostrar en consola los datos del alumno y un mensaje que avisa que esa
+funcionalidad se hiso en una rama independiente y no en main. Tambien se agrego
+esta seccion al readme.
+
+Despues de confirmar los cambios en la rama se volvio a main y se fusionaron
+los dos con un merge y al final se borro la rama feature-barrueto porque ya no
+hacia falta.
